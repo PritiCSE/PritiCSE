@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
- Open Source Contributor  • App Developer • DSA 
+• App Developer • DSA 
 </h3>
 
 <p align="center">
@@ -41,38 +41,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,js,react,nodejs,express,mongodb,python"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,react"/>
 <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman"/>
 
 </div>
 
 
 ---
-## 🏆 Achievements
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/GSSoC_2025-Rank_3-ff69b4?style=for-the-badge&logo=github"/>
-      <br/><sub><b>Sample</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Code_Social-Rank_1-blue?style=for-the-badge&logo=github"/>
-      <br/><sub><b>Sample</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hacktoberfest-Super_Contributor-orange?style=for-the-badge&logo=hacktoberfest"/>
-      <br/><sub><b>Sample</b></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 
 
 ## 📊 GitHub Insights
